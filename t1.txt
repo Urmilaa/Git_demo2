@@ -1,0 +1,6 @@
+The git reset command is a powerful tool used to undo changes, unstage files, or move the 
+current branch HEAD to a specific previous commit.The Three Main Reset ModesThe command operates 
+in three primary modes depending on how you want to handle your staging area (Index) and working directory 
+(your actual local files):ModeMoves HEAD?Clears Staging Area?Wipes Working Directory?Best Used For--softYesNoNoRedoing or
+combining a commit message while keeping code staged.--mixed (Default)YesYesNoUnstaging files or
+rewriting local history while keeping code edits intact.--hardYesYesYesCompletely throwing away unwanted work and starting over from a clean state.
