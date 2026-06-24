@@ -10,7 +10,3 @@ rewriting local history while keeping code edits intact.--hardYesYesYesCompletel
 rewriting local history while keeping code edits intact.--hardYesYesYesCompletely throwing away unwanted work and starting over from a clean state.
 
 =================================================================
-
-Most important command in team environments.
-Instead of deleting commit history,Git creates a NEW commit that reverses previous changes.
-
