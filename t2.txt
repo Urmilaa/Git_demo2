@@ -6,3 +6,5 @@ Secure, managed desktop environments for AI agents to operate enterprise applica
 ****************************************
 
 -------------------------------------
+❌ Avoid making production changes using imperative commands whenever possible.
+
