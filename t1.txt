@@ -10,3 +10,7 @@ rewriting local history while keeping code edits intact.--hardYesYesYesCompletel
 rewriting local history while keeping code edits intact.--hardYesYesYesCompletely throwing away unwanted work and starting over from a clean state.
 
 =================================================================
+
+Rebase demo 
+
+=============================================================
